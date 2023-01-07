@@ -38,6 +38,7 @@ Find the item type that appears in both compartments of each rucksack. What is t
 Your puzzle answer was 8252.
 
 The first half of this puzzle is complete! It provides one gold star: *
+
 --- Part Two ---
 
 As you finish identifying the misplaced items, the Elves come to you with another issue.
