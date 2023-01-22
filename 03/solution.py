@@ -19,3 +19,4 @@ def solve(file):
             x = x +alphabet.index(i.lower()) + 27
     return x
 print(solve(read_input("input.txt")))
+
